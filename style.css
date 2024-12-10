@@ -1,0 +1,146 @@
+body{
+    background-image: url(./img/ceb34fc8f66efab265863cd51819c6f6.jpg);
+}
+.global{
+    display: flex;
+    flex-direction: row;
+}
+.carusel{
+    width: 64px;
+    height: 414px;
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+}
+.foto{
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
+    border: 3px solid white;
+    display: flex;
+    flex-direction: column;
+}
+.card_product{
+    background-color: white;
+    width: 414px;
+    height: 414px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 40px;
+    border: 3px solid white;
+}
+.foto_1{
+    background-color: white;
+    width: 414px;
+    height: 414px;
+    border-radius: 30px;
+    border: 3px solid white;
+}
+.work{
+    width: 539px;
+    height: 228px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.text_1{
+    width: 360px;
+    height: 56px;
+}
+.reviews{
+    background-color: white;
+    width: 539px;
+    height: 162px;
+    border-radius: 12px;
+    border: 3px solid white;
+    position: relative;
+    top: 25px;
+}
+.pay{
+    background-color: white;
+    width: 483px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    border: 3px solid white;
+}
+.pay1{
+    width: 435px;
+    height: 44px;
+    display: flex;
+    flex-direction: row;
+}
+.bt_1{
+    border-radius: 20px;
+    background-color: #6EF49D;
+    border: none;
+    position: relative;
+    left: 15px;
+    bottom: 10px;
+}
+.pay2{
+    width: 435px;
+    height: 43.66px;
+    display: flex;
+    flex-direction: row;
+}
+.bt_2{
+    border-radius: 20px;
+    background-color: #FFDEDE;
+    border: none;
+}
+.bt_3{
+    border-radius: 20px;
+    background-color: #FF0000;
+    border: none;
+}
+.ittem{
+    width: 45px;
+    height: 19px;
+    margin-top: -565px;
+    margin-bottom: 521px;
+    margin-left: 565px;
+    margin-right: 1789px;
+}
+.stat{
+    background-color: white;
+    width: 539px; 
+    height: 275px;
+    margin-top: 275px;
+    margin-left: -1025px;
+    border-radius: 12px;
+    border: 3px solid white;
+    display: flex;
+    flex-direction: column;
+}
+.marcet{
+    background-color: white;
+    width: 360px;
+    height: 360px;
+    border-radius: 12px;
+    border: 3px solid white;
+    display: flex;
+    flex-direction: column;
+    margin-top: 465px;
+    margin-right: 800px;
+    margin-left: -950px;
+}
+.ittem_2{
+   margin-top: 150px;
+   margin-right: 500px;
+   margin-left: -450px;
+}
+.shipping{
+    width: 483px;
+    height: 250px;
+    margin-left: 500px;
+    border-radius: 12px;
+    border: 3px solid green;
+}
+.pip_1{
+    border: #6EF49D;
+    display: flex;
+    flex-direction: row;
+}
