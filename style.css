@@ -133,14 +133,27 @@ body{
    margin-left: -450px;
 }
 .shipping{
-    width: 483px;
+    background-color: white;
+    width: 350px;
     height: 250px;
     margin-left: 500px;
     border-radius: 12px;
-    border: 3px solid green;
+    border: 3px solid white;
+    
+}
+.pip{
+    background-color: #6EF49D;
+    width: 90px;
+    height: 25px;
+    border-radius: 12px;
+    border: 3px solid #6EF49D;
+    margin-right: 10px;
 }
 .pip_1{
-    border: #6EF49D;
+    display: flex;
+    flex-direction: row;
+}
+.pip_2{
     display: flex;
     flex-direction: row;
 }
